@@ -30,4 +30,4 @@ We, at SystemEXE, promise to solve challenges together with all stakeholders, en
 [![Maintainer: @tsuyoshi-otake](https://img.shields.io/badge/Maintainer-@tsuyoshi--otake-green)](https://github.com/tsuyoshi-otake-system-exe-jp)
 [![Maintainer: @fumiaki-motoyoshi](https://img.shields.io/badge/Maintainer-@fumiaki--motoyoshi-green)](https://github.com/fumiaki-motoyoshi-system-exe-jp)
 
-For more information, visit our [GitHub Organization page](https://github.com/systemexe-research-and-development).
+For more information, visit our [SystemEXE](https://www.system-exe.co.jp/).
